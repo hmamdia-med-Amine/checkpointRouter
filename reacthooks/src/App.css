@@ -1,0 +1,27 @@
+body {
+  background-image: linear-gradient(#ffecd2, #fcb69f);
+
+  color: #ffffff;
+}
+
+.row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.SearchBar {
+  display: flex;
+  justify-content: center;
+  border-radius: 30px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.addButton {
+  height: 40px;
+  width: 40px;
+}
